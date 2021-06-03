@@ -2,7 +2,8 @@
 
 > Widget Image Carousel on Vanilla JS
 
-### [Demo]()
+## [Demo](http://image-carousel-js-ab.surge.sh)
+[![IMAGE ALT TEXT HERE](./uploads/screen.png)](https://nimb.ws/PNop2D)
 
 ### Get started
 
@@ -19,3 +20,4 @@ npm i -g live-server
 ```shell script
 live-server
 ```
+
