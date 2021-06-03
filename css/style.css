@@ -11,6 +11,7 @@ body {
   justify-content: center;
   height: 100vh;
   margin: 0;
+  background: url("../img/bg.png") repeat;
 }
 
 img {
@@ -24,6 +25,7 @@ img {
   height: 530px;
   width: 500px;
   overflow: hidden;
+  border-radius: 10px;
 }
 
 .image-container {
@@ -38,17 +40,20 @@ img {
 }
 
 .btn {
-  background-color: rebeccapurple;
+  background-color: #337c3e;
   color: #fff;
   border: none;
   outline: none;
-  padding: .5rem;
+  padding: .3rem;
   font-weight: bold;
   border-radius: 3px;
   cursor: pointer;
   width: 49.5%;
   font-family: inherit;
-  font-size: 1.05rem;
+  font-size: 24px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
   transition: opacity .35s ease-in-out;
 }
 
